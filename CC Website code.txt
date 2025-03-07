@@ -1,0 +1,49 @@
+
+        <div id="container"><div id="topBar"><img src="Placeholder_logo.png" alt= "placeholder logo" width="350" height="350" style="image-align:center;"></div>
+            <div id="headerArea">
+                
+                
+            <nav id="navbar" style="margin-bottom: 10px;"><ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Members</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">???</a></li>
+              </ul></nav></div>
+
+            <div id="flex">
+                
+                <main>
+                    <h1 style="text-align:center;">Welcome!<br>You're now an Honorary Member of the Scryptid Club!</h1>
+                <hr>
+                <blockquote style="color: #0a0e13; background-color:PeachPuff;"><strong>The Scryptid Club</strong> is a safe space dedicated to <b>Cryptids</b>, <b>Folklore</b>, and <b>Mythological Creatures</b>, where they can study, hang out, and work on projects after school without the stress of human interference.</blockquote>
+               <hr>
+               <h2 style="color:rgb(255, 165, 0);">Club Visitor Rules</h2>
+
+               <ul>
+               <li>Follow the Club Member Rules as well
+               <li>You may talk about the existence of cryptids, However, Understand that some may wish to not be revealed, Please respect that.
+               <li>Don't steal any Member's belongings and keep them as souvenirs or evidence. <small>(Seriously you have no idea how many times this happens)</small>, Be sure to return any belongings to the rightful owners.
+               <li>Be Kind and Patient with us, We may have a hard time communicating with humans.
+               <li>Respect the boundaries and identities of the Members here, Be also wary of harmful stereotypes. Plain and simple.
+               <li>If you're planning to bring a camera, Make sure you turn off the flash.<small>(Do note: Some students here either prefer to not be on camera, or don't show up in photos)</small>
+               <li>Snitches Get Stitches!
+               </ul>
+
+               <h2 style="color:rgb(255, 165, 0);">Club Member Rules</h2>
+               <ul>
+               <li>Do not talk about the Scryptid Club outside of the Clubroom <small>(Exceptions are made when talking with other members of the club)</small>
+               <li>Leave weapons and anything made of Iron, Silver, or Gold outside the club, These may accidentally harm other members here. <small>(Don't worry, The classroom is shielded with a protective charm)</small>
+               <li>As you exit the Clubroom, Be sure to remember all of your belongings and make sure to put on your Disguises.
+               <li>Shapeshifters, Stay in the form you're most comfortable with. You don't have to strain yourself in keeping up appearances.
+               <li>The Incomprehensible, If you can, Stay in a form that we can comprehend.
+               <li>While we accept pranking amongst the members, Understand that some members may not wish to participate. Further note: Don't take a prank too far, We don't want anyone getting physically or emotionally hurt from a joke.
+               <li>Make sure at ALL COSTS that Squirmy the slug is safe and fed daily :)
+               </ul>
+
+
+                </main>
+                
+            
+
+    
