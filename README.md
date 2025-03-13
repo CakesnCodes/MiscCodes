@@ -6,7 +6,7 @@ Salutations! This is where I store bits of miscellaneous bits of code I created,
 
 3 Temperature switcharoo- Converts Farhenheit to Celcius and vice versa using functions
 
-4 add em' up - I Honestly don't remember what this one does... I think It has something to do with exponents? Still it shows how exception handling and assignment operators work
+4 add em' up - ~~I Honestly don't remember what this one does... I think It has something to do with exponents? Still it shows how exception handling and assignment operators work~~ UPDATE: Turns out this code uses a for loop to create an iteration of numbers. Each iteration prints the sum of the current and previous numbers.
 
 5 Factorials- Nvm this is the factorials one
 
